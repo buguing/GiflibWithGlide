@@ -1,0 +1,3 @@
+rootProject.name='GiflibWithGlide'
+include ':app'
+include ':gifdecoder'
